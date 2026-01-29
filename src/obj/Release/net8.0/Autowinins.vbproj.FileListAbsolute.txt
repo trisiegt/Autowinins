@@ -1,0 +1,14 @@
+C:\Users\Tristan\Desktop\autowinins\src\vb\Autowinins\bin\Release\net8.0\Autowinins.exe
+C:\Users\Tristan\Desktop\autowinins\src\vb\Autowinins\bin\Release\net8.0\Autowinins.deps.json
+C:\Users\Tristan\Desktop\autowinins\src\vb\Autowinins\bin\Release\net8.0\Autowinins.runtimeconfig.json
+C:\Users\Tristan\Desktop\autowinins\src\vb\Autowinins\bin\Release\net8.0\Autowinins.dll
+C:\Users\Tristan\Desktop\autowinins\src\vb\Autowinins\bin\Release\net8.0\Autowinins.pdb
+C:\Users\Tristan\Desktop\autowinins\src\vb\Autowinins\obj\Release\net8.0\Autowinins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tristan\Desktop\autowinins\src\vb\Autowinins\obj\Release\net8.0\Autowinins.AssemblyInfoInputs.cache
+C:\Users\Tristan\Desktop\autowinins\src\vb\Autowinins\obj\Release\net8.0\Autowinins.AssemblyInfo.vb
+C:\Users\Tristan\Desktop\autowinins\src\vb\Autowinins\obj\Release\net8.0\Autowinins.vbproj.CoreCompileInputs.cache
+C:\Users\Tristan\Desktop\autowinins\src\vb\Autowinins\obj\Release\net8.0\Autowinins.dll
+C:\Users\Tristan\Desktop\autowinins\src\vb\Autowinins\obj\Release\net8.0\refint\Autowinins.dll
+C:\Users\Tristan\Desktop\autowinins\src\vb\Autowinins\obj\Release\net8.0\Autowinins.pdb
+C:\Users\Tristan\Desktop\autowinins\src\vb\Autowinins\obj\Release\net8.0\Autowinins.genruntimeconfig.cache
+C:\Users\Tristan\Desktop\autowinins\src\vb\Autowinins\obj\Release\net8.0\ref\Autowinins.dll

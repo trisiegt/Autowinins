@@ -1,0 +1,2 @@
+C:\Users\Tristan\Desktop\autowinins\build\Autowinins.pdb
+C:\Users\Tristan\Desktop\autowinins\build\Autowinins.exe
